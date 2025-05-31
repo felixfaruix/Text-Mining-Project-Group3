@@ -1,2 +1,6 @@
 test_processed.pkl
 train_processed.pkl
+lda_bbc_news.model
+lda_bbc_news.model.expElogbeta.npy
+lda_bbc_news.model.id2word
+lda_bbc_news.model.state
