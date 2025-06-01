@@ -1,0 +1,19 @@
+sentence_id	sentence	sentiment	topic
+0	The stadium was alive with the roar of the crowd after that incredible win.	positive	sports
+1	That last-minute goal had me jumping out of my seat—what an unbelievable finish!	positive	sports
+2	I couldn’t put the book down; it swept me into a whole new world.	positive	book
+3	The story had its moments, though some parts felt like they dragged on a bit.	neutral	book
+4	I enjoyed the way the timelines shifted, even if it got a little confusing sometimes.	neutral	book
+5	Every time I watch this movie, I notice something new—it really grows on you.	positive	movie
+6	The movie was a wild ride from start to finish; I was on the edge of my seat the entire time.	positive	movie
+7	Honestly, the team just fell apart in the second half, and it showed on the field.	negative	sports
+8	No surprise there—the coach rested a few players given how packed the schedule was.	neutral	sports
+9	The trailer was decent, giving you a taste without spilling all the secrets.	neutral	movie
+10	I found the main character so annoying that it was hard to care about what happened next.	negative	book
+11	The author's style feels really genuine, making each sentence resonate.	positive	book
+12	The movie never really clicked for me; the leads just lacked any real spark.	negative	movie
+13	Both teams are playing it safe right now, so it's hard to tell who’ll eventually take the lead.	neutral	sports
+14	Frankly, I don’t get the hype—it’s just a game after all.	negative	sports
+15	Word is, the screenplay was scribbled down during a casual coffee break at a busy cafe.	neutral	movie
+16	It’s surprising how a promising start could unravel into such a disappointing finish.	negative	movie
+17	In the end, the book was more useful as a coaster than as something worth reading.	negative	book
